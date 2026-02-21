@@ -213,7 +213,6 @@ numpy>=1.24.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 ```
-
 ## 📈 Future Enhancements
 
 - [ ] Geospatial mapping (Folium/Plotly)
@@ -221,11 +220,6 @@ seaborn>=0.12.0
 - [ ] Time-series booking trends
 - [ ] API endpoint for real-time queries
 - [ ] Streamlit dashboard
-
-## 📫 Contact
-
-**Poorani M** - Bengaluru, Karnataka  
-[LinkedIn](https://linkedin.com/in/poorani-m) | poorani@example.com
 
 ## 📄 License
 
